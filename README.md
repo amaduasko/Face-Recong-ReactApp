@@ -1,0 +1,3 @@
+# Face-Recong-ReactApp
+made by react.js, node.js, api and others dev-deps
+[upload a pic and try it, have fun ... 
